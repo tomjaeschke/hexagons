@@ -1,0 +1,216 @@
+﻿a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.arrownorthbynortheast {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arrownorthbynortheast.gif");
+}
+.arroweast {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arroweast.gif");
+}
+.arrowsouthbysoutheast {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arrowsouthbysoutheast.gif");  
+}
+.arrowsouthbysouthwest {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arrowsouthbysouthwest.gif");
+}
+.arrowwest {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arrowwest.gif");
+}
+.arrownorthbynorthwest {
+    height: 116px;
+    width: 100px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+    background-image: url("/images/arrownorthbynorthwest.gif");
+}
+.bitter
+{
+    height: 73px;
+    width: 100px;
+    position: absolute;
+    padding-top: 43px;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    z-index: 1;
+    background-image: url("/images/bitter.gif");
+}
+body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.copy {
+    padding: 110px 110px 0px 110px;
+    font-size: 16px;
+    color: #333333;
+}
+.damisam
+{
+    height: 50px;
+    background-image: url('/images/damisam.gif');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.directions
+{
+    margin: 0 auto;
+    width: 1000px;
+    height: 567px;
+    background-image: url('/images/directions.gif');
+    background-repeat: no-repeat;
+}
+.download {
+    height: 30px;
+    width: 600px;
+}
+.float {
+    float: left;
+    white-space: nowrap;
+}
+h1 {
+    margin: 0px 0px -5px 0px;
+    padding: 10px 0px 0px 0px;
+    font-size: 36px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #000000;
+}
+.link {
+    margin-left: 10px;
+    background-color: #999999;
+    padding: 0px 2px 0px 2px;
+}
+.subh1 {
+    font-size: 30px !important;
+}
+input {
+    border: 1px solid #666666;
+}
+.instructions {
+    padding-top: 20px;
+}
+.introduction {
+    padding: 10px 110px 70px 110px;
+    font-size: 16px;
+    color: #333333;
+}
+.maininterface {
+    width: 680px;
+    margin: 0 auto;
+    height: 473px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.note
+{
+    margin: 0 auto;
+    width: 1000px;
+    height: 825px;
+}
+.salty
+{
+    height: 73px;
+    width: 100px;
+    position: absolute;
+    padding-top: 43px;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    z-index: 1;
+    background-image: url("/images/salty.gif");
+}
+.sour
+{
+    height: 73px;
+    width: 100px;
+    position: absolute;
+    padding-top: 43px;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    z-index: 1;
+    background-image: url("/images/sour.gif");
+}
+.summary {
+    position: absolute;
+    padding: 10px;
+    font-size: 9px;
+    z-index: 2;
+    left: -5px;
+    width: 290px;
+}
+.sweet
+{
+    height: 73px;
+    width: 100px;
+    position: absolute;
+    padding-top: 43px;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    z-index: 1;
+    background-image: url("/images/sweet.gif");
+}
+.swirl 
+{
+	width: 141px;
+	padding-left: 859px;
+    height: 30px;
+    padding-top: 527px;
+	_background-image: url("/images/swirl.gif");
+	background-repeat: no-repeat;
+	position: absolute;
+	z-index: 2;
+}
+.swirl[class] 
+{
+  	background-image: url("/images/swirl.png");
+}
