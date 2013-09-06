@@ -12,8 +12,8 @@
         <div class="summary">
             <div class="download">
                 <div class="float">Source Code:</div>
-                <div class="float link"><a href="http://www.damisam.com/damisam.zip">ZIP</a></div>
-                <div class="float link"><a href="http://www.damisam.com/damisam.rar">RAR</a></div>
+                <div class="float link"><a href="https://github.com/tomjaeschke/hexagons">GIT</a></div>
+                <div class="float link"><a href="https://github.com/tomjaeschke/hexagons/archive/master.zip">ZIP</a></div>
             </div>
             <div>
                 <asp:Label ID="Instructions" runat="server" Text="enter a positive integer of up to five digits"></asp:Label>
