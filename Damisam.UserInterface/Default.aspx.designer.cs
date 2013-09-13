@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Damisam.UserInterface {
-    
-    
-    public partial class Default {
-        
+namespace Damisam.UserInterface
+{
+
+
+    public partial class Default
+    {
+
         /// <summary>
         /// damisam control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm damisam;
-        
+
         /// <summary>
         /// Instructions control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Instructions;
-        
+
         /// <summary>
         /// TextBox control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox;
-        
+
         /// <summary>
         /// Button control.
         /// </summary>
@@ -47,7 +49,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button;
-        
+
         /// <summary>
         /// Hexagon control.
         /// </summary>
@@ -56,7 +58,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Hexagon;
-        
+
         /// <summary>
         /// Color control.
         /// </summary>
@@ -65,7 +67,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Color;
-        
+
         /// <summary>
         /// HexagonToTheEast control.
         /// </summary>
@@ -74,7 +76,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label HexagonToTheEast;
-        
+
         /// <summary>
         /// HexagonToTheSouthBySoutheast control.
         /// </summary>
@@ -83,7 +85,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label HexagonToTheSouthBySoutheast;
-        
+
         /// <summary>
         /// HexagonToTheSouthBySouthwest control.
         /// </summary>
@@ -92,7 +94,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label HexagonToTheSouthBySouthwest;
-        
+
         /// <summary>
         /// HexagonToTheWest control.
         /// </summary>
@@ -101,7 +103,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label HexagonToTheWest;
-        
+
         /// <summary>
         /// HexagonToTheNorthByNorthwest control.
         /// </summary>
@@ -110,7 +112,7 @@ namespace Damisam.UserInterface {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label HexagonToTheNorthByNorthwest;
-        
+
         /// <summary>
         /// HexagonToTheNorthByNortheast control.
         /// </summary>

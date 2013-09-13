@@ -1,0 +1,7 @@
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\Damisam.MathematicsCalculations.Tests.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\Damisam.MathematicsCalculations.Tests.pdb

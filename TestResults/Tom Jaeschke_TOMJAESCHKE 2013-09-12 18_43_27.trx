@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3f4b4fab-8715-4ce0-b837-3e522c60af08" name="Tom Jaeschke@TOMJAESCHKE 2013-09-12 18:43:27" runUser="TOMJAESCHKE\Tom Jaeschke" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="7c6caf68-0668-4e68-bf6a-c70cf7d11d36">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\TestResults\Tom Jaeschke_TOMJAESCHKE 2013-09-12 18_43_27">
+      <DeploymentItem filename="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations\bin\Debug\Damisam.MathematicsCalculations.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2013-09-12T18:43:27.2656250-05:00" queuing="2013-09-12T18:43:32.8281250-05:00" start="2013-09-12T18:43:33.2968750-05:00" finish="2013-09-12T18:43:34.8593750-05:00" />
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="76f54faf-7ce2-ec9a-c17b-765c5bee351b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="112026dd-d73c-40f7-88b8-78f5d9b62ea6" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.UnitTest1, Damisam.MathematicsCalculations.Tests" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="76f54faf-7ce2-ec9a-c17b-765c5bee351b" executionId="112026dd-d73c-40f7-88b8-78f5d9b62ea6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="112026dd-d73c-40f7-88b8-78f5d9b62ea6" testId="76f54faf-7ce2-ec9a-c17b-765c5bee351b" testName="TestMethod1" computerName="TOMJAESCHKE" duration="00:00:00.0758914" startTime="2013-09-12T18:43:33.4218750-05:00" endTime="2013-09-12T18:43:34.7500000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -6,12 +6,12 @@ namespace Damisam.UserInterface
     public partial class Default : System.Web.UI.Page
     {
         public SimpleTerritory Model;
-        
+
         public void Page_Load(object sender, EventArgs e)
         {
             int hexagon = 0;
             Instructions.Text = "enter a positive integer of up to five digits";
-            if(Request.QueryString["hexagon"] != null)
+            if (Request.QueryString["hexagon"] != null)
             {
                 string wouldBeValue = Request.QueryString["hexagon"] as string;
                 try
@@ -22,7 +22,9 @@ namespace Damisam.UserInterface
                         if (Request.QueryString["moveby"] != null && Request.QueryString["moveby"] as string == "arrow" && hexagon > 0)
                         {
                             if (!Page.IsPostBack) TextBox.Text = "";
-                        } else {
+                        }
+                        else
+                        {
                             if (!Page.IsPostBack) TextBox.Text = "";
                             hexagon = 0;
                             Instructions.Text = "you DID NOT enter a positive integer of up to five digits";
@@ -52,7 +54,9 @@ namespace Damisam.UserInterface
             if (TextBox.Text.Trim() != "")
             {
                 Response.Redirect("Default.aspx?hexagon=" + TextBox.Text.Trim());
-            } else {
+            }
+            else
+            {
                 Response.Redirect("Default.aspx?hexagon=0");
             }
         }

@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="37d05747-c22c-4078-a7e1-3fe83d7526ed" name="Tom Jaeschke@TOMJAESCHKE 2013-09-12 18:47:27" runUser="TOMJAESCHKE\Tom Jaeschke" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="7c6caf68-0668-4e68-bf6a-c70cf7d11d36">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\TestResults\Tom Jaeschke_TOMJAESCHKE 2013-09-12 18_47_27">
+      <DeploymentItem filename="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations\bin\Debug\Damisam.MathematicsCalculations.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="25" executed="25" passed="25" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2013-09-12T18:47:27.9531250-05:00" queuing="2013-09-12T18:47:28.4218750-05:00" start="2013-09-12T18:47:28.5781250-05:00" finish="2013-09-12T18:47:29.7812500-05:00" />
+  <TestDefinitions>
+    <UnitTest name="able_to_set_ring_segment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="504bf5cc-3c60-eb8f-5d5f-0824b1329ba0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="42d6a45b-6606-4af7-b2ce-87a92c38375f" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_set_ring_segment" />
+    </UnitTest>
+    <UnitTest name="may_return_colors_for_territories_not_on_every_third_ring" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="39f9ccd9-c906-21d3-df43-6be395189033">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="40d8cb42-9a5b-4018-a969-b65cc9df570e" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="may_return_colors_for_territories_not_on_every_third_ring" />
+    </UnitTest>
+    <UnitTest name="may_determine_what_TerritoryColor_a_Territory_is_based_upon_the_colors_adjacent_to_it" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="95a81ab6-0ba1-e2dc-4eba-f980a25e0ef3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f2940b79-e68b-495b-918d-1048f64f4d6b" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="may_determine_what_TerritoryColor_a_Territory_is_based_upon_the_colors_adjacent_to_it" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_hexagons_in_inner_rings" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="47bbebf5-cb36-5261-831a-f739c44402c8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="189031b0-a9cc-45b2-a6c4-471aca7c40db" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_hexagons_in_inner_rings" />
+    </UnitTest>
+    <UnitTest name="property_accessors_for_Territory_work" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="96bb7f60-904c-6448-e424-d9eaaf890ddd">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6e528cb2-9400-4da8-8b39-b950d252345e" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="property_accessors_for_Territory_work" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_EastByNortheast_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="aface8d0-3503-ebb7-02b1-cb0a5a5f05eb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9cd32b87-977a-48ef-b94f-b1004689dfe7" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_EastByNortheast_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_WestByNorthwest_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="900802ec-a989-876d-ab50-848984eeae1d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1dd0f750-deb2-4863-a860-a567e6e0a1f4" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_WestByNorthwest_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_outer_ring" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="9898e196-3ba0-2825-466d-de476a539bda">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="59f85967-e5bc-42b1-95b3-33e969b7269f" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_outer_ring" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_North_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="3998e94c-9b3a-02fa-61e0-9be22e31d4bd">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="668ee29c-7c45-4179-8731-dc6e7eb5f91e" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_North_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_ring" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="0e22857f-097a-edb6-2677-826f5a7eecf5">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="67f08694-bee3-4ad1-b8e8-6d895515d5db" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_ring" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_five_navigation_crutches" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="35b2cbeb-dd23-2f4d-82e1-2a8faea9cf07">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="928a46d3-6cbf-457b-8749-cbc274ceb3e5" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_five_navigation_crutches" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_EastBySoutheast_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="b2f1f23a-9449-bf60-e26a-eb96793c001f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f2fa980e-e8bb-4c20-a95c-ee52f8c595d8" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_EastBySoutheast_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_item_count_in_bowling_ball_pin_arrangement_given_number_of_rows_in_arrangement" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="64b90f12-107a-7d4e-b088-3804160b2aec">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="503e8d51-22d1-47df-9ffa-126c17d2d706" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_item_count_in_bowling_ball_pin_arrangement_given_number_of_rows_in_arrangement" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_inner_ring" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="6386acd3-a34f-ad78-eb41-1d2990dc5e58">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="17a6667d-9e89-4b5d-bcce-b609904fab57" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_inner_ring" />
+    </UnitTest>
+    <UnitTest name="able_to_divide_by_six_while_rounding_up" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="3d739ad4-4f44-df56-1dea-a50f5a7eef3a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="11295277-fef7-4660-bb48-610161e37e65" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_divide_by_six_while_rounding_up" />
+    </UnitTest>
+    <UnitTest name="property_accessors_for_Territory_zero_work" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="7b024f91-0b4e-0a16-2f4e-0368dd304f34">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bba2eeb7-21c9-4a50-8bd7-6f4aea43b4c7" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="property_accessors_for_Territory_zero_work" />
+    </UnitTest>
+    <UnitTest name="may_calculate_Territory_specifications_at_Territory_creation" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="3300055e-1f6a-831d-904f-23e89b5a8e4f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="953eea6b-0894-4d77-9027-ef9562bdf24e" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="may_calculate_Territory_specifications_at_Territory_creation" />
+    </UnitTest>
+    <UnitTest name="test_numeric_values_for_TerritoryColor" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="cdf1cb17-b74b-bd62-0cc7-4c11dbe98ee5">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2b56355a-b16e-4b4a-896c-3a85fb1b1bdf" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryColorTester, Damisam.MathematicsCalculations.Tests" name="test_numeric_values_for_TerritoryColor" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_South_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="2019d6af-730d-250f-91ab-3d868eb5da3b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bc01dc58-bf35-4f2b-815e-0b549a9ccdc2" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_South_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_calculate_row_in_bowling_ball_pin_arrangement_for_given_pin" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="3ba1c8d7-340c-4cca-8670-e1306fd8bfea">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="609df4ec-8c2d-421c-8261-f6b5a67623ba" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_calculate_row_in_bowling_ball_pin_arrangement_for_given_pin" />
+    </UnitTest>
+    <UnitTest name="test_numeric_values_for_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="f70910f7-a0f5-9fe3-3bf5-6c10be136114">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0ce9ed1a-3a43-465b-8ae6-dcbbae1949d9" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.RingSegmentTester, Damisam.MathematicsCalculations.Tests" name="test_numeric_values_for_RingSegment" />
+    </UnitTest>
+    <UnitTest name="able_to_find_neighboring_territories_given_WestBySouthwest_RingSegment" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="0d6e4591-bccd-5c92-90cf-b3d5f4027c9c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0d38f7f3-dd30-4c7d-be36-af0599872b4d" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="able_to_find_neighboring_territories_given_WestBySouthwest_RingSegment" />
+    </UnitTest>
+    <UnitTest name="first_seven_Territories_have_the_TerritoryColors_expected" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="7a2a43f2-73fc-f1e5-d1fb-69b3c0c90263">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="de86f71b-dfe7-43d4-bd54-c33901181c17" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="first_seven_Territories_have_the_TerritoryColors_expected" />
+    </UnitTest>
+    <UnitTest name="may_return_colors_for_territories_on_every_third_ring" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="583bb079-7752-b8b3-f968-3c9623bbad6b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="19d1ba6e-93c8-4547-b252-acc94fedef36" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="may_return_colors_for_territories_on_every_third_ring" />
+    </UnitTest>
+    <UnitTest name="Territory_can_identify_two_oldest_neighbors" storage="c:\documents and settings\tom jaeschke\desktop\new hexagons\damisam.userinterface\damisam.mathematicscalculations.tests\bin\debug\damisam.mathematicscalculations.tests.dll" id="161f5877-58e9-e014-6e9a-2b0cbf14ec9b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6aeab45b-4d47-4ab0-8f79-f9303df68807" />
+      <TestMethod codeBase="C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Damisam.MathematicsCalculations.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Damisam.MathematicsCalculations.Tests.TerritoryTester, Damisam.MathematicsCalculations.Tests" name="Territory_can_identify_two_oldest_neighbors" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0d6e4591-bccd-5c92-90cf-b3d5f4027c9c" executionId="0d38f7f3-dd30-4c7d-be36-af0599872b4d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0e22857f-097a-edb6-2677-826f5a7eecf5" executionId="67f08694-bee3-4ad1-b8e8-6d895515d5db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="161f5877-58e9-e014-6e9a-2b0cbf14ec9b" executionId="6aeab45b-4d47-4ab0-8f79-f9303df68807" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2019d6af-730d-250f-91ab-3d868eb5da3b" executionId="bc01dc58-bf35-4f2b-815e-0b549a9ccdc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3300055e-1f6a-831d-904f-23e89b5a8e4f" executionId="953eea6b-0894-4d77-9027-ef9562bdf24e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35b2cbeb-dd23-2f4d-82e1-2a8faea9cf07" executionId="928a46d3-6cbf-457b-8749-cbc274ceb3e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3998e94c-9b3a-02fa-61e0-9be22e31d4bd" executionId="668ee29c-7c45-4179-8731-dc6e7eb5f91e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39f9ccd9-c906-21d3-df43-6be395189033" executionId="40d8cb42-9a5b-4018-a969-b65cc9df570e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ba1c8d7-340c-4cca-8670-e1306fd8bfea" executionId="609df4ec-8c2d-421c-8261-f6b5a67623ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d739ad4-4f44-df56-1dea-a50f5a7eef3a" executionId="11295277-fef7-4660-bb48-610161e37e65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47bbebf5-cb36-5261-831a-f739c44402c8" executionId="189031b0-a9cc-45b2-a6c4-471aca7c40db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="504bf5cc-3c60-eb8f-5d5f-0824b1329ba0" executionId="42d6a45b-6606-4af7-b2ce-87a92c38375f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="583bb079-7752-b8b3-f968-3c9623bbad6b" executionId="19d1ba6e-93c8-4547-b252-acc94fedef36" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6386acd3-a34f-ad78-eb41-1d2990dc5e58" executionId="17a6667d-9e89-4b5d-bcce-b609904fab57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64b90f12-107a-7d4e-b088-3804160b2aec" executionId="503e8d51-22d1-47df-9ffa-126c17d2d706" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a2a43f2-73fc-f1e5-d1fb-69b3c0c90263" executionId="de86f71b-dfe7-43d4-bd54-c33901181c17" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7b024f91-0b4e-0a16-2f4e-0368dd304f34" executionId="bba2eeb7-21c9-4a50-8bd7-6f4aea43b4c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="900802ec-a989-876d-ab50-848984eeae1d" executionId="1dd0f750-deb2-4863-a860-a567e6e0a1f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95a81ab6-0ba1-e2dc-4eba-f980a25e0ef3" executionId="f2940b79-e68b-495b-918d-1048f64f4d6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96bb7f60-904c-6448-e424-d9eaaf890ddd" executionId="6e528cb2-9400-4da8-8b39-b950d252345e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9898e196-3ba0-2825-466d-de476a539bda" executionId="59f85967-e5bc-42b1-95b3-33e969b7269f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aface8d0-3503-ebb7-02b1-cb0a5a5f05eb" executionId="9cd32b87-977a-48ef-b94f-b1004689dfe7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2f1f23a-9449-bf60-e26a-eb96793c001f" executionId="f2fa980e-e8bb-4c20-a95c-ee52f8c595d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdf1cb17-b74b-bd62-0cc7-4c11dbe98ee5" executionId="2b56355a-b16e-4b4a-896c-3a85fb1b1bdf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f70910f7-a0f5-9fe3-3bf5-6c10be136114" executionId="0ce9ed1a-3a43-465b-8ae6-dcbbae1949d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0d38f7f3-dd30-4c7d-be36-af0599872b4d" testId="0d6e4591-bccd-5c92-90cf-b3d5f4027c9c" testName="able_to_find_neighboring_territories_given_WestBySouthwest_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0684237" startTime="2013-09-12T18:47:28.6250000-05:00" endTime="2013-09-12T18:47:29.1718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="67f08694-bee3-4ad1-b8e8-6d895515d5db" testId="0e22857f-097a-edb6-2677-826f5a7eecf5" testName="able_to_calculate_ring" computerName="TOMJAESCHKE" duration="00:00:00.0215074" startTime="2013-09-12T18:47:29.1718750-05:00" endTime="2013-09-12T18:47:29.2031250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6aeab45b-4d47-4ab0-8f79-f9303df68807" testId="161f5877-58e9-e014-6e9a-2b0cbf14ec9b" testName="Territory_can_identify_two_oldest_neighbors" computerName="TOMJAESCHKE" duration="00:00:00.0293749" startTime="2013-09-12T18:47:29.2031250-05:00" endTime="2013-09-12T18:47:29.2500000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bc01dc58-bf35-4f2b-815e-0b549a9ccdc2" testId="2019d6af-730d-250f-91ab-3d868eb5da3b" testName="able_to_find_neighboring_territories_given_South_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0164674" startTime="2013-09-12T18:47:29.2500000-05:00" endTime="2013-09-12T18:47:29.2812500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="953eea6b-0894-4d77-9027-ef9562bdf24e" testId="3300055e-1f6a-831d-904f-23e89b5a8e4f" testName="may_calculate_Territory_specifications_at_Territory_creation" computerName="TOMJAESCHKE" duration="00:00:00.0321174" startTime="2013-09-12T18:47:29.2812500-05:00" endTime="2013-09-12T18:47:29.3125000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="928a46d3-6cbf-457b-8749-cbc274ceb3e5" testId="35b2cbeb-dd23-2f4d-82e1-2a8faea9cf07" testName="able_to_calculate_five_navigation_crutches" computerName="TOMJAESCHKE" duration="00:00:00.0475303" startTime="2013-09-12T18:47:29.3125000-05:00" endTime="2013-09-12T18:47:29.3750000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="668ee29c-7c45-4179-8731-dc6e7eb5f91e" testId="3998e94c-9b3a-02fa-61e0-9be22e31d4bd" testName="able_to_find_neighboring_territories_given_North_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0124976" startTime="2013-09-12T18:47:29.3750000-05:00" endTime="2013-09-12T18:47:29.3906250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="40d8cb42-9a5b-4018-a969-b65cc9df570e" testId="39f9ccd9-c906-21d3-df43-6be395189033" testName="may_return_colors_for_territories_not_on_every_third_ring" computerName="TOMJAESCHKE" duration="00:00:00.0106158" startTime="2013-09-12T18:47:29.4062500-05:00" endTime="2013-09-12T18:47:29.4218750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="609df4ec-8c2d-421c-8261-f6b5a67623ba" testId="3ba1c8d7-340c-4cca-8670-e1306fd8bfea" testName="able_to_calculate_row_in_bowling_ball_pin_arrangement_for_given_pin" computerName="TOMJAESCHKE" duration="00:00:00.0023480" startTime="2013-09-12T18:47:29.4218750-05:00" endTime="2013-09-12T18:47:29.4375000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="11295277-fef7-4660-bb48-610161e37e65" testId="3d739ad4-4f44-df56-1dea-a50f5a7eef3a" testName="able_to_divide_by_six_while_rounding_up" computerName="TOMJAESCHKE" duration="00:00:00.0011629" startTime="2013-09-12T18:47:29.4375000-05:00" endTime="2013-09-12T18:47:29.4531250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="189031b0-a9cc-45b2-a6c4-471aca7c40db" testId="47bbebf5-cb36-5261-831a-f739c44402c8" testName="able_to_calculate_hexagons_in_inner_rings" computerName="TOMJAESCHKE" duration="00:00:00.0011367" startTime="2013-09-12T18:47:29.4531250-05:00" endTime="2013-09-12T18:47:29.4687500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="42d6a45b-6606-4af7-b2ce-87a92c38375f" testId="504bf5cc-3c60-eb8f-5d5f-0824b1329ba0" testName="able_to_set_ring_segment" computerName="TOMJAESCHKE" duration="00:00:00.0060158" startTime="2013-09-12T18:47:29.4687500-05:00" endTime="2013-09-12T18:47:29.4843750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="19d1ba6e-93c8-4547-b252-acc94fedef36" testId="583bb079-7752-b8b3-f968-3c9623bbad6b" testName="may_return_colors_for_territories_on_every_third_ring" computerName="TOMJAESCHKE" duration="00:00:00.0101979" startTime="2013-09-12T18:47:29.4843750-05:00" endTime="2013-09-12T18:47:29.5000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="17a6667d-9e89-4b5d-bcce-b609904fab57" testId="6386acd3-a34f-ad78-eb41-1d2990dc5e58" testName="able_to_calculate_inner_ring" computerName="TOMJAESCHKE" duration="00:00:00.0011892" startTime="2013-09-12T18:47:29.5000000-05:00" endTime="2013-09-12T18:47:29.5156250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="503e8d51-22d1-47df-9ffa-126c17d2d706" testId="64b90f12-107a-7d4e-b088-3804160b2aec" testName="able_to_calculate_item_count_in_bowling_ball_pin_arrangement_given_number_of_rows_in_arrangement" computerName="TOMJAESCHKE" duration="00:00:00.0013998" startTime="2013-09-12T18:47:29.5156250-05:00" endTime="2013-09-12T18:47:29.5312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="de86f71b-dfe7-43d4-bd54-c33901181c17" testId="7a2a43f2-73fc-f1e5-d1fb-69b3c0c90263" testName="first_seven_Territories_have_the_TerritoryColors_expected" computerName="TOMJAESCHKE" duration="00:00:00.0017359" startTime="2013-09-12T18:47:29.5312500-05:00" endTime="2013-09-12T18:47:29.5312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bba2eeb7-21c9-4a50-8bd7-6f4aea43b4c7" testId="7b024f91-0b4e-0a16-2f4e-0368dd304f34" testName="property_accessors_for_Territory_zero_work" computerName="TOMJAESCHKE" duration="00:00:00.0023894" startTime="2013-09-12T18:47:29.5312500-05:00" endTime="2013-09-12T18:47:29.5468750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1dd0f750-deb2-4863-a860-a567e6e0a1f4" testId="900802ec-a989-876d-ab50-848984eeae1d" testName="able_to_find_neighboring_territories_given_WestByNorthwest_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0124549" startTime="2013-09-12T18:47:29.5468750-05:00" endTime="2013-09-12T18:47:29.5781250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f2940b79-e68b-495b-918d-1048f64f4d6b" testId="95a81ab6-0ba1-e2dc-4eba-f980a25e0ef3" testName="may_determine_what_TerritoryColor_a_Territory_is_based_upon_the_colors_adjacent_to_it" computerName="TOMJAESCHKE" duration="00:00:00.0015817" startTime="2013-09-12T18:47:29.5781250-05:00" endTime="2013-09-12T18:47:29.5781250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6e528cb2-9400-4da8-8b39-b950d252345e" testId="96bb7f60-904c-6448-e424-d9eaaf890ddd" testName="property_accessors_for_Territory_work" computerName="TOMJAESCHKE" duration="00:00:00.0054953" startTime="2013-09-12T18:47:29.5781250-05:00" endTime="2013-09-12T18:47:29.5937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="59f85967-e5bc-42b1-95b3-33e969b7269f" testId="9898e196-3ba0-2825-466d-de476a539bda" testName="able_to_calculate_outer_ring" computerName="TOMJAESCHKE" duration="00:00:00.0014568" startTime="2013-09-12T18:47:29.6093750-05:00" endTime="2013-09-12T18:47:29.6093750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9cd32b87-977a-48ef-b94f-b1004689dfe7" testId="aface8d0-3503-ebb7-02b1-cb0a5a5f05eb" testName="able_to_find_neighboring_territories_given_EastByNortheast_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0129281" startTime="2013-09-12T18:47:29.6093750-05:00" endTime="2013-09-12T18:47:29.6406250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f2fa980e-e8bb-4c20-a95c-ee52f8c595d8" testId="b2f1f23a-9449-bf60-e26a-eb96793c001f" testName="able_to_find_neighboring_territories_given_EastBySoutheast_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0125010" startTime="2013-09-12T18:47:29.6406250-05:00" endTime="2013-09-12T18:47:29.6562500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2b56355a-b16e-4b4a-896c-3a85fb1b1bdf" testId="cdf1cb17-b74b-bd62-0cc7-4c11dbe98ee5" testName="test_numeric_values_for_TerritoryColor" computerName="TOMJAESCHKE" duration="00:00:00.0034009" startTime="2013-09-12T18:47:29.6562500-05:00" endTime="2013-09-12T18:47:29.6718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0ce9ed1a-3a43-465b-8ae6-dcbbae1949d9" testId="f70910f7-a0f5-9fe3-3bf5-6c10be136114" testName="test_numeric_values_for_RingSegment" computerName="TOMJAESCHKE" duration="00:00:00.0026939" startTime="2013-09-12T18:47:29.6718750-05:00" endTime="2013-09-12T18:47:29.6718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

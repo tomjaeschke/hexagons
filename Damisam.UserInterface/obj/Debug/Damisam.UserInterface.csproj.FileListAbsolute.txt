@@ -1,0 +1,9 @@
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.UserInterface.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.UserInterface.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\obj\Debug\Damisam.UserInterface.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\obj\Debug\Damisam.UserInterface.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.Objects.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.Objects.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.MathematicsCalculations.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.UserInterface\bin\Damisam.MathematicsCalculations.pdb

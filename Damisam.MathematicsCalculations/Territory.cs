@@ -26,7 +26,17 @@ namespace Damisam.MathematicsCalculations
         {
         }
 
-        public Territory(int positionOnSpiral, bool isCurrentHexagon = true)
+        public Territory(int positionOnSpiral)
+        {
+            PrepareTerritory(positionOnSpiral, true);
+        }
+
+        public Territory(int positionOnSpiral, bool isCurrentHexagon)
+        {
+            PrepareTerritory(positionOnSpiral, isCurrentHexagon);
+        }
+
+        public void PrepareTerritory(int positionOnSpiral, bool isCurrentHexagon)
         {
             territoryColor = null;
             hexagon = positionOnSpiral;
