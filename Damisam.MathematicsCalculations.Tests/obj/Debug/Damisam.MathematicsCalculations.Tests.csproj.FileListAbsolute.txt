@@ -5,3 +5,8 @@ C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterfac
 C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\Damisam.MathematicsCalculations.Tests.dll
 C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\obj\Debug\Damisam.MathematicsCalculations.Tests.pdb
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\System.Core.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\System.Data.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\System.dll
+C:\Documents and Settings\Tom Jaeschke\Desktop\new hexagons\Damisam.UserInterface\Damisam.MathematicsCalculations.Tests\bin\Debug\System.Xml.dll
